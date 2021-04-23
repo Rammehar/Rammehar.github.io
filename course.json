@@ -8,12 +8,12 @@
 		"id": "002",
 		"name": "Advanced Java",
 		"price": 3000,
-		"imageUrl": "https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png"
+		"imageUrl": "http://cbitss.in/wp-content/uploads/2018/12/java-training-in-chandigarh.png"
 	},
 	{
 		"id": "003",
 		"name": "Flutter With Dart Begginer to Advanced",
-		"price": 2000,
+		"price": 52000,
 		"imageUrl": "https://miro.medium.com/max/700/1*rb3JJRN2YfybijTcxQiiUQ.png"
 
 	},
@@ -21,7 +21,7 @@
 		"id": "004",
 		"name": "React Js With Node JS",
 		"price": 15000,
-		"imageUrl": "https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png"
+		"imageUrl": "https://binaryinformatics.com/wp-content/uploads/2019/01/MERN-Stack-Development-and-Consulting-Services.jpg"
 	},
 	{
 		"id": "005",
